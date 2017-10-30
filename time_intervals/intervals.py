@@ -30,7 +30,7 @@ class IntervalsConstructionError(Exception):
     pass
 
 class Intervals(object):
-    __version__ = '1.0'
+    __version__ = '1.0.0'
 
     def __init__(self, timepoints=[], label=None, paranoid=False):
         ''' 

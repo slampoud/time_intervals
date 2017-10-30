@@ -10,7 +10,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = 'time_intervals',
-    version = '1.0',
+    version = '1.0.0',
     description = 'Operations on intervals',
     author = 'Sotiria Lampoudi',
     author_email = 'slampoud@gmail.com',
